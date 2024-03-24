@@ -5,10 +5,20 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" alt="PHP Badge" height="25" ></span>
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
+<span>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff" alt="NestJS Badge" height="25">
+</span>
+<span>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" height="25" alt="PostgreSQL Badge">
+</span>
+<span>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="25" alt="MySQL Badge">
+</span>
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
@@ -29,6 +39,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<span>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff alt="Laravel Badge" height="25">
+</span>
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
