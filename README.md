@@ -13,6 +13,10 @@
 <span>
     <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff" alt="NestJS Badge" height="25">
 </span>
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
 <span>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" height="25" alt="PostgreSQL Badge">
 </span>
