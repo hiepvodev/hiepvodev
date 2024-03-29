@@ -55,7 +55,7 @@
 <br>
 <div align=left>
 - 🔭 I’m currently working on NestJS, NextJS, CI/CD, Docker.<br>
-- 🌱 I’m currently learning NestJS in advanced.<br>
+- 🌱 I’m currently learning NestJS and Nextjs in advanced.<br>
 - 👯 I’m looking to collaborate on NestJS<br>
 - 🤔 I’m looking for help with management knowledge.<br>
 </div>
